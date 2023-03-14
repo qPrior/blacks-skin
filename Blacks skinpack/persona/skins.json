@@ -1,0 +1,48 @@
+{
+  "skins": [
+    {
+      "localization_name": "Skin1", 
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "skin1cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin2", 
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin2.png",
+      "cape": "skin2cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin3", 
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin3.png",
+      "cape": "skin3cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin4", 
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin4.png",
+      "cape": "skin4cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin5", 
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin5.png",
+      "cape": "skin5cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin6", 
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin6.png",
+      "cape": "skin6cape.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Made by Prior",
+  "localization_name": "Made by Prior"
+}

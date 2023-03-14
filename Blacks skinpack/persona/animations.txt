@@ -1,0 +1,29 @@
+Animations founded on HIVE by Aexji 06/15/2022
+
+        "move.legs": "animation.player.move.legs.single",
+        "move.legs": "animation.player.move.legs.stationary",
+        "move.legs": "animation.player.move.legs.inverted",
+        "move.arms": "animation.player.move.arms.single",
+        "move.arms": "animation.player.move.arms.stationary",
+        "move.arms": "animation.player.move.arms.zombie",
+        "move.arms": "animation.player.move.arms.statue_of_liberty"
+
+YOUR SKINS.JSON NEEDS TO MATCH THIS OUR ANIMATIONS WONT WORK
+
+{
+  "skins": [
+    {
+      "localization_name": "ANY",
+      "geometry": "ANY",
+      "texture": "ANY.png",
+      "cape": "ANY.png",
+      "animations": {
+        "move.arms": "animation.player.move.arms.example",
+        "move.legs": "animation.player.move.legs.example"
+      },
+      "type": "free"
+    }
+  ],
+  "serialize_name": "ANY",
+  "localization_name": "ANY"
+}
